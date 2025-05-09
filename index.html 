@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nona Roti</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Nona Roti</div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Menu</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <div class="hero">
+        <h1>Freshly Baked Bread, Just for You</h1>
+        <p>Discover our delicious selection of bread and pastries made fresh every day.</p>
+        <button>Order Now</button>
+    </div>
+    <div class="features">
+        <div>
+            <h3>Quality Ingredients</h3>
+            <p>We use only the best ingredients to create our breads and pastries.</p>
+        </div>
+        <div>
+            <h3>Handmade with Care</h3>
+            <p>Every item is crafted by our skilled bakers to ensure top-notch quality.</p>
+        </div>
+        <div>
+            <h3>Wide Variety</h3>
+            <p>From classic loaves to sweet treats, we have something for everyone.</p>
+        </div>
+    </div>
+    <div class="cta">
+        <h2>Visit Our Store Today</h2>
+        <button>Get Directions</button>
+    </div>
+    <footer>
+        <div>
+            <p>&copy; 2025 Nona Roti</p>
+        </div>
+        <div>
+            <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+        </div>
+        <div>
+            <p>Follow us on <a href="#">Instagram</a> and <a href="#">Facebook</a></p>
+        </div>
+    </footer>
+</body>
+</html>
+
+
